@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+httpx  # Para hacer peticiones HTTP a la API externa
+pymongo  # Para interactuar con MongoDB
+python-dotenv  # Para cargar variables de entorno desde .env
